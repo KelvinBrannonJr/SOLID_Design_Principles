@@ -1,0 +1,6 @@
+
+2023-07-31 15:04:46,052 - custom_logger - DEBUG - This is a DEBUG message
+2023-07-31 15:04:46,052 - custom_logger - INFO - This is a INFO message
+2023-07-31 15:04:46,052 - custom_logger - WARNING - This is a WARNING message
+2023-07-31 15:04:46,052 - custom_logger - ERROR - This is a ERROR message
+2023-07-31 15:04:46,052 - custom_logger - CRITICAL - This is a CRITICAL message
