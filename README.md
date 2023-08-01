@@ -1,9 +1,11 @@
 #  - S.O.L.I.D. Principle concepts
 
-## - Singleton [ Showcase Singleton pattern using a custom logger ] 
+## - Singleton [ Singleton pattern using a custom logger ] 
 
-## - Factory [ Showcase Factory pattern using a shape builder game ] 
+## - Factory [ Factory pattern using a shape builder game ] 
 
-## - Builder [ Showcase Builder pattern using a sandwich builder game ] 
+## - Builder [ Builder pattern using a sandwich builder game ] 
 
-## - Adapter [ Showcase Adapter pattern using XML and JSON file reader with display ] 
+## - Adapter [ Adapter pattern using XML and JSON file reader with display ] 
+
+## - Strategy [ Strategy pattern using a GUI app to display Image, Video and Form. ] 
